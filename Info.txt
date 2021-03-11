@@ -1,0 +1,21 @@
+BETWALL
+Aplicação de análise de apostas esportivas.
+
+Objetivo: Analisar dados de todos os times de um determinado campeonato visando prever resultados.
+---------------------------------------------------------------------------------
+> RIVALIDADE : Relações históricas entre clubes.
+> CONFRONTO : Relação entre clubes dentro do campeonato.
+> CAMPEONATO : Relação histórica do clube com o campeonato.
+> COMPETIÇÃO  : Relação do elenco dentro da competição.
+> CLUBES : Informação histórica do clube.
+> ELENCO : Informação do elenco.
+> ATLETA : Informação do profissional.
+> JOGADOR : Informação do comportamento pessoal.
+---------------------------------------------------------------------------------
+
+PESOS              PESOS        COND.TIPOS    MELHORES          SELECIONAR
+INDIVIDUAIS   -->  TOTAIS  -->  APOSTAS  -->  APOSTAS     -->   APOSTAS  
+
+---------------------------------------------------------------------------------
+
+Procurar base de dados estatista de futebol. 
